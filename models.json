@@ -1,7 +1,7 @@
 [
   {
     "name": "Dlib Landmarks",
-    "url": "http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2",
+    "url": "https://github.com/toanlcgift/dlibmodels/raw/master/shape_predictor_68_face_landmarks.dat.bz2",
     "hash": "73fde5e05226548677a050913eed4e04",
     "version": "1.0",
     "id": "4",
